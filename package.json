@@ -1,0 +1,18 @@
+{
+  "name": "issue-ark-ui-slider",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@ark-ui/vue": "^3.7.2",
+    "lucide-vue-next": "^0.427.0",
+    "nuxt": "^3.12.4",
+    "vue": "^3.4.37"
+  }
+}
